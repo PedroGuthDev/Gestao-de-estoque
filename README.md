@@ -29,6 +29,12 @@ Este projeto é uma aplicação web (SPA) para gerenciar o inventário de produt
 - Bootstrap - Estilização visual e responsividade
 - LocalStorage - Armazenamento local (Banco de dados simulado)
 
+## 🎥 Resultado
+
+<video src="./Resultado.mp4" controls width="100%">
+  Seu navegador não suporta a tag de vídeo.
+</video>
+
 ## 📌 Como Usar
 
 Clone o repositório:
