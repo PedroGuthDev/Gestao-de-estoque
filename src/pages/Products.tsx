@@ -52,7 +52,7 @@ export default function Products() {
                 </Link>
                 <Link
                   className="btn btn-light"
-                  to={`/change-product/${product.id}`}
+                  to={`/products/change-product/${product.id}`}
                 >
                   Editar
                 </Link>
