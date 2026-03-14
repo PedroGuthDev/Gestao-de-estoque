@@ -31,9 +31,8 @@ Este projeto é uma aplicação web (SPA) para gerenciar o inventário de produt
 
 ## 🎥 Resultado
 
-<video src="./Resultado.mp4" controls width="100%">
-  Seu navegador não suporta a tag de vídeo.
-</video>
+![Resultado](https://github.com/user-attachments/assets/98794059-4f2e-4fa5-a74e-ba169dbfefcf)
+
 
 ## 📌 Como Usar
 
